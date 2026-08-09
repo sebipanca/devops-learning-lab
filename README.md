@@ -8,3 +8,7 @@
 - Github actions
 - Terraform
 - Kubernetes
+
+## Linux
+
+Linux fundamentals and system administration
