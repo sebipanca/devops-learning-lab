@@ -12,3 +12,5 @@
 ## Linux
 
 Linux, networking and system administration for DevOps
+
+Linux fundamentals and system administration
